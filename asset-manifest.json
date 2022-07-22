@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/auction-ticker/static/css/main.9485ecb6.css",
+    "main.js": "/auction-ticker/static/js/main.65b0ed2b.js",
+    "static/media/split-flap-display.wav": "/auction-ticker/static/media/split-flap-display.f3f48b0ac86ecf9538ad.wav",
+    "index.html": "/auction-ticker/index.html",
+    "main.9485ecb6.css.map": "/auction-ticker/static/css/main.9485ecb6.css.map",
+    "main.65b0ed2b.js.map": "/auction-ticker/static/js/main.65b0ed2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9485ecb6.css",
+    "static/js/main.65b0ed2b.js"
+  ]
+}
